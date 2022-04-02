@@ -18,7 +18,8 @@ hi, i'm Syed Omar Hasan Rodriguez, a passionate self-taught frondend web develop
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://assets8.lottiefiles.com/packages/lf20_n9ounqpx.json" width="500" height="320" />
+ <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets8.lottiefiles.com/packages/lf20_n9ounqpx.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
   
 - 💼 any freelance work? do reach, [email](mailto:omarhasanrodriguez@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
